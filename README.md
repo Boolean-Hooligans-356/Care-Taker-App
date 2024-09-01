@@ -64,7 +64,7 @@ The AI Assistant module provides users with information about medications and me
 
 ## Installation
 
-To get started with the HealthCare Mobile App, follow these steps:
+To get started with the Care Taker App, follow these steps:
 
 1. Clone the repository:
    ```bash

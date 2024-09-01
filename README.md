@@ -68,11 +68,11 @@ To get started with the HealthCare Mobile App, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/healthcare-mobile-app.git
+   git clone https://github.com/Boolean-Hooligans-356/Care-Taker-App.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd healthcare-mobile-app
+   cd Care-Taker-App
    ```
 3. Install dependencies:
    ```bash

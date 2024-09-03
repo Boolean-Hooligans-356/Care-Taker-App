@@ -3,7 +3,8 @@
 
 ## Overview
 
-The Care Taker Mobile App is designed to improve patient management and health monitoring through a suite of useful features. It includes:
+The Care Taker Mobile App is designed to improve patient management and health monitoring through a suite of useful features. 
+It includes:
 
 - **SOS Feature**: Enables users to send an emergency alert with their location to selected contacts.
 - **Medication Reminder**: Helps users set and manage medication reminders to ensure timely doses.
